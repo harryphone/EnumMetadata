@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		1092014125F1FD12007CA70A /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1092014025F1FD12007CA70A /* main.swift */; };
+		1092014A25F1FF2F007CA70A /* EnumMetadata.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1092014925F1FF2F007CA70A /* EnumMetadata.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,7 @@
 /* Begin PBXFileReference section */
 		1092013D25F1FD12007CA70A /* EnumMetadata */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = EnumMetadata; sourceTree = BUILT_PRODUCTS_DIR; };
 		1092014025F1FD12007CA70A /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		1092014925F1FF2F007CA70A /* EnumMetadata.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnumMetadata.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			isa = PBXGroup;
 			children = (
 				1092014025F1FD12007CA70A /* main.swift */,
+				1092014925F1FF2F007CA70A /* EnumMetadata.swift */,
 			);
 			path = EnumMetadata;
 			sourceTree = "<group>";
@@ -120,6 +123,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1092014125F1FD12007CA70A /* main.swift in Sources */,
+				1092014A25F1FF2F007CA70A /* EnumMetadata.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
